@@ -14,3 +14,4 @@ Links de acesso à consulta de informações públicas:
 
     http://www.tre-mg.jus.br/
 
+    https://web.archive.org/
